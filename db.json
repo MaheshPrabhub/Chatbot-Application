@@ -1,0 +1,36 @@
+{
+  "signin": [
+    {
+      "fname": "Manoj",
+      "lname": "Adhikari",
+      "email": "manojadhikari@gmail.com",
+      "phone": "234324234",
+      "password": "asdasdf",
+      "id": 1
+    },
+    {
+      "fname": "shivam",
+      "lname": "adhikari",
+      "email": "shivamadhikari@gmail.com",
+      "phone": "32432",
+      "password": "asdf",
+      "id": 2
+    },
+    {
+      "fname": "mahesh",
+      "lname": "prabhu",
+      "email": "abc@gmail.com",
+      "phone": "9842109834",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "fname": "mani",
+      "lname": "n",
+      "email": "mani@gmail.com",
+      "phone": "1234567890",
+      "password": "123",
+      "id": 4
+    }
+  ]
+}

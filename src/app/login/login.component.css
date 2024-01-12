@@ -1,0 +1,10 @@
+.form-box{
+    border:none;
+    width: 500px;
+    padding: 40px;
+    position: absolute;
+    left:10%;
+    top: 30%;
+ 
+    background-color: skyblue;
+}
